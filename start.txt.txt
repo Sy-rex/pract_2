@@ -1,5 +1,6 @@
 while(true)
 {
+	print("Илья лох")
 	HandleInput();
 	UpdateScripts();
 	DrawGraphic();
